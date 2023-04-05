@@ -1,1 +1,1 @@
-test
+DMM WEBCAMPの課題提出用のリポジトリです。
